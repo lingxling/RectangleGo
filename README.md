@@ -1,4 +1,4 @@
 # RectangleGo
 Unity小游戏练习
 
-![效果展示](/img/a.png)
+![效果展示](/img/a.PNG)
